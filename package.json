@@ -10,8 +10,15 @@
     "test": "jest"
   },
   "dependencies": {
+    "@phantom/react-native-wallet-sdk": "^0.0.32",
+    "@solana/buffer-layout": "4.0.0",
+    "@solana/web3.js": "1.73.5",
+    "expo": "^52.0.0",
+    "expo-linking": "^7.0.5",
+    "expo-web-browser": "~14.0.2",
     "react": "19.0.0",
-    "react-native": "0.78.0"
+    "react-native": "0.78.0",
+    "react-native-url-polyfill": "^2.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
