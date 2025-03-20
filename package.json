@@ -10,7 +10,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "@phantom/react-native-wallet-sdk": "^0.0.32",
+    "@phantom/react-native-wallet-sdk": "^0.0.35",
     "@solana/buffer-layout": "4.0.0",
     "@solana/web3.js": "1.73.5",
     "expo": "^52.0.0",
