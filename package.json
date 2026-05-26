@@ -42,5 +42,9 @@
   },
   "engines": {
     "node": ">=18"
+  },
+  "overrides": {
+    "form-data": "3.0.4",
+    "fast-xml-parser": "4.5.4"
   }
 }
