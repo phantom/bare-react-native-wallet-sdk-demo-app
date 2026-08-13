@@ -40,6 +40,10 @@
     "react-test-renderer": "19.0.0",
     "typescript": "5.0.4"
   },
+  "overrides": {
+    "fast-xml-parser": "4.5.5",
+    "form-data": "3.0.5"
+  },
   "engines": {
     "node": ">=18"
   }
